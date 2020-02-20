@@ -16,8 +16,12 @@ export default {
     Timer,
   },
 
-  data: () => ({
-    //
-  }),
+  data: () => ({}),
 };
 </script>
+
+<style scoped>
+  #app {
+    background: url('https://source.unsplash.com/1600x900/?disney') no-repeat center center/cover;
+  }
+</style>
